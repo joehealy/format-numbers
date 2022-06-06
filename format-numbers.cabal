@@ -1,8 +1,10 @@
--- This file has been generated from package.yaml by hpack version 0.28.2.
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.34.5.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 7d51ca94c5905643aaa36ef11f9704470df5b53328d503e1ee3594b432f7a5c6
+-- hash: 6e28ddaff080425f67948a54765ed0c925dcaa66d552bace9ea5996dfd9d16bf
 
 name:           format-numbers
 version:        0.1.0.1
@@ -16,10 +18,9 @@ copyright:      2017-2020 Alexander Thiemann <mail@athiemann.net>
 license:        MIT
 license-file:   LICENSE
 build-type:     Simple
-cabal-version:  >= 1.10
 extra-source-files:
-    package.yaml
     README.md
+    package.yaml
     stack.yaml
 
 library
